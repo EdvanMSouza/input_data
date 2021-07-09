@@ -1,0 +1,30 @@
+cd_agencia;nr_conta;titularidade;cpf;nome;cidade;UF
+001;202001;1;12345678;João da Silva;São Paulo;SP
+001;202001;2;12345712;Maria de Jesus;São Paulo;SP
+001;202002;1;12345789;Maria Josefa Mendes;Rio de Janeiro;RJ
+002;202003;1;12345900;Teresa de Morais;São Paulo;SP
+002;202003;2;12345934;José Santos;São Paulo;SP
+002;202003;3;12345968;Cristina Morais Santos;São Paulo;SP
+003;202001;1;12346011;Pedro Roberto ;Curitiba;PR
+003;202001;2;12346045;Ana Roberto;Curitiba;PR
+001;202005;1;12346122;Alfredo Nunes;Salvador;BA
+002;202006;1;12346233;Fernanda Pereira;Manaus;AM
+003;202007;1;12346344;Amanda Carvalho;São Paulo;SP
+003;202007;2;12346378;Fernanda Carvalho;São Paulo;SP
+003;202007;3;12346412;Alice Carvalho;São Paulo;SP
+001;202008;1;12346455;Silvia Lima;Rio Branco;AC
+002;202009;1;12346566;Timoteo Rodrigues Castro;São Paulo;SP
+002;202009;2;12346600;Ana Castro;São Paulo;SP
+003;202010;1;12346677;Silvio Juventino;Salvador;BA
+003;202011;1;12346788;Francisco França;Rio de Janeiro;RJ
+001;202012;1;12346899;Rodrigo Gomes;São Paulo;SP
+001;202012;2;12346933;Raquel Gomes;São Paulo;SP
+001;202013;1;12347010;Leandra Oliveira;Salvador;BA
+002;202014;1;12347121;Felipe dos Reis;Salvador;BA
+002;202014;2;12347155;Jesica dos Reis;Salvador;BA
+003;202015;1;12347232;Maria Cristina de Sá;São Paulo;SP
+001;202016;1;12347343;Manuela Swandisky;Rio de Janeiro;RJ
+003;202017;1;12347454;Andrea de Sousa;Rio de Janeiro;RJ
+003;202017;2;12347488;Maurizio Marzo;Rio de Janeiro;RJ
+002;202018;1;12347565;Alessandra dos Santos;Rio de Janeiro;RJ
+001;202019;1;12347676;José Martins;São Paulo;SP
